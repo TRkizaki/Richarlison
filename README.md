@@ -1,1 +1,1 @@
-Nextjs vercel Clerk Auth sample
+Nextjs vercel Clerk Auth chatPDF sample
